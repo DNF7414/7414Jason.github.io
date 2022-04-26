@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <body style="background-color:darkorange;"></body>
-    <title>Swords in roblox bedwars</title>
 </head>
 </body>
 <html lang="en">
