@@ -6,7 +6,6 @@
 </body>
 <html lang="en">
 <head>
-    <title>Document</title>
 </head>
 <style>
 .paragraf{color:aqua}
@@ -16,7 +15,6 @@
 <font color="red"<font size="10">Types of swords and damage</font>
 </center>
 <center>
-<p class="paragraf"> by: Jason 7414<p> 
 </center>
 </body>
 </html>
