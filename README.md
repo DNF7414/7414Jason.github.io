@@ -7,11 +7,6 @@
 <html lang="en">
 <head>
 </head>
-<style>
-</style>
-<body>   
-    <center>
-<font color="red"<font size="10">Types of swords and damage</font>
 </center>
 <center>
 </center>
