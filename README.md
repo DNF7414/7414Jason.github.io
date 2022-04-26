@@ -8,7 +8,6 @@
 <head>
 </head>
 <style>
-.paragraf{color:aqua}
 </style>
 <body>   
     <center>
